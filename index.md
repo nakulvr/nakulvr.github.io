@@ -12,21 +12,31 @@
 <img src="images/company_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Projects
 
----
+- [Kademlia - TLS](https://github.com/nakulvr/Kademlia_TLS)
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/kademlia.jpg?raw=true"/>
+
+
+- [Tele-connect](https://github.com/nakulvr/tele-connect-angular)
+
+
+<img src="images/tele-connect.jpg?raw=true"/>
+
+
+- [Cloud-native High Performance Filesystem](https://github.com/BU-NU-CLOUD-F19/Cloud-Native_high-performance_computing)
+
+
+<img src="images/cloud-kubernetes.jpg?raw=true"/>
+
+
+- [Distributed Filesystem](https://github.com/nakulvr/GDFS)
+
+
+<img src="images/gdfs.jpg?raw=true"/>
+
 
 ---
