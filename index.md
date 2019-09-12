@@ -13,7 +13,7 @@
 
 ---
 
-### Projects
+### Selected Projects
 
 - [Kademlia - TLS](https://github.com/nakulvr/Kademlia_TLS)
 
