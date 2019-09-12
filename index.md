@@ -4,7 +4,11 @@
 
 ### Work Experience 
 
-[Intel, Schneider Electric, Philips](/sample_page)
+ - [Intel - 4 years](/intel)
+ - [Schneider Electric - 7 months](/schneider)
+ - [Philips - 8 months](/philips)
+
+
 <img src="images/company_thumbnail.jpg?raw=true"/>
 
 ---
